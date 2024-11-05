@@ -21,7 +21,7 @@ El desarrollo del proyecto seguirá la metodología Extreme Programming (XP), la
 ### Integrantes y funciones
 | Integrantes  | Funciones    |
 |--------------|--------------|
-| Carlos Gómez Aliaga | Programador / Couch    |
+| Carlos Gómez Aliaga | Programador / Coach    |
 | Javier Morales Gutiérrez | Electrónico    |
 | Damián Aruquipa | Encargado de Pruebas    |
 ### Contactos
