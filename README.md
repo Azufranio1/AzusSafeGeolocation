@@ -21,7 +21,7 @@ El desarrollo del proyecto seguirá la metodología Extreme Programming (XP), la
 | Carlos Gómez Aliaga | Programador / Couch    |
 | Javier Morales Gutiérrez | Electrónico    |
 | Damián Aruquipa | Encargado de Pruebas    |
-#### Contactos
+### Contactos
 - Correo: carlosaliaga037@gmail.com
 
 - Powered by: NextGenSolution
