@@ -15,8 +15,8 @@ El desarrollo del proyecto seguirá la metodología Extreme Programming (XP), la
 - SDK Mapbox: Para la visualización y gestión de mapas interactivos.
 - Arduino: Programación del hardware, como el ESP32, para enviar datos de geolocalización al servidor.
 - ESP32: Dispositivo de hardware utilizado para capturar y enviar datos de ubicación.
-### Base de Datos
-<img src="Resources/imgs/DBDiagrama.png" alt="Diagrama Físico" height="150" width="auto">
+### Diagrama Físico de la Base de Datos:
+<img src="Resources/imgs/DBDiagrama.jfif" alt="Diagrama Físico" height="400" width="auto">
 ### Integrantes y funciones
 | Integrantes  | Funciones    |
 |--------------|--------------|
