@@ -17,6 +17,7 @@ El desarrollo del proyecto seguirá la metodología Extreme Programming (XP), la
 - ESP32: Dispositivo de hardware utilizado para capturar y enviar datos de ubicación.
 ### Diagrama Físico de la Base de Datos:
 <img src="Resources/imgs/DBDiagrama.jfif" alt="Diagrama Físico" height="400" width="auto">
+
 ### Integrantes y funciones
 | Integrantes  | Funciones    |
 |--------------|--------------|
