@@ -27,4 +27,4 @@ El desarrollo del proyecto seguirá la metodología Extreme Programming (XP), la
 ### Contactos
 - Correo: carlosaliaga037@gmail.com
 
-- Powered by: NextGenSolution
+- Powered by: © NextGenSolution 2024
